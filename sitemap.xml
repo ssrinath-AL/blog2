@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://ssrinath-al.github.io/</loc>
-  <lastmod>2018-09-03T15:16:00Z</lastmod>
+  <lastmod>2018-09-03T19:00:00Z</lastmod>
  </url>
  <url>
   <loc>https://ssrinath-al.github.io/2012/</loc>
@@ -19,7 +19,7 @@
  </url>
  <url>
   <loc>https://ssrinath-al.github.io/archive.html</loc>
-  <lastmod>2018-09-03T18:19:00Z</lastmod>
+  <lastmod>2018-09-03T19:04:00Z</lastmod>
  </url>
  <url>
   <loc>https://ssrinath-al.github.io/authors/</loc>
@@ -70,6 +70,10 @@
   <lastmod>2018-09-02T00:44:00Z</lastmod>
  </url>
  <url>
+  <loc>https://ssrinath-al.github.io/index-1.html</loc>
+  <lastmod>2018-09-03T19:00:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://ssrinath-al.github.io/listings/</loc>
   <lastmod>2018-09-02T00:44:00Z</lastmod>
  </url>
@@ -79,7 +83,7 @@
  </url>
  <url>
   <loc>https://ssrinath-al.github.io/listings/hello.py.html</loc>
-  <lastmod>2018-09-03T18:19:00Z</lastmod>
+  <lastmod>2018-09-03T19:05:00Z</lastmod>
  </url>
  <url>
   <loc>https://ssrinath-al.github.io/pages/about-nikola/</loc>
@@ -144,6 +148,18 @@
  <url>
   <loc>https://ssrinath-al.github.io/posts/test-new-post/</loc>
   <lastmod>2018-09-03T15:16:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://ssrinath-al.github.io/posts/test3/</loc>
+  <lastmod>2018-09-03T19:01:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://ssrinath-al.github.io/posts/test4/</loc>
+  <lastmod>2018-09-03T19:00:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://ssrinath-al.github.io/posts/testpost2/</loc>
+  <lastmod>2018-09-03T18:35:00Z</lastmod>
  </url>
  <url>
   <loc>https://ssrinath-al.github.io/posts/welcome-to-nikola/</loc>
