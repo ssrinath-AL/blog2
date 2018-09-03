@@ -6,123 +6,147 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>http://test.com/</loc>
+  <loc>https://ssrinath-al.github.io/</loc>
+  <lastmod>2018-09-03T15:16:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://ssrinath-al.github.io/2012/</loc>
   <lastmod>2018-09-02T00:44:00Z</lastmod>
  </url>
  <url>
-  <loc>http://test.com/2012/</loc>
+  <loc>https://ssrinath-al.github.io/2018/</loc>
+  <lastmod>2018-09-03T15:16:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://ssrinath-al.github.io/archive.html</loc>
+  <lastmod>2018-09-03T18:19:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://ssrinath-al.github.io/authors/</loc>
+  <lastmod>2018-09-03T18:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://ssrinath-al.github.io/authors/roberto-alsina/</loc>
+  <lastmod>2018-09-03T15:16:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://ssrinath-al.github.io/authors/shreyas/</loc>
+  <lastmod>2018-09-03T18:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://ssrinath-al.github.io/authors/sway/</loc>
+  <lastmod>2018-09-03T15:16:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://ssrinath-al.github.io/categories/</loc>
   <lastmod>2018-09-02T00:44:00Z</lastmod>
  </url>
  <url>
-  <loc>http://test.com/archive.html</loc>
+  <loc>https://ssrinath-al.github.io/categories/blog/</loc>
   <lastmod>2018-09-02T00:44:00Z</lastmod>
  </url>
  <url>
-  <loc>http://test.com/categories/</loc>
+  <loc>https://ssrinath-al.github.io/categories/cat_nikola/</loc>
   <lastmod>2018-09-02T00:44:00Z</lastmod>
  </url>
  <url>
-  <loc>http://test.com/categories/blog/</loc>
+  <loc>https://ssrinath-al.github.io/categories/demo/</loc>
   <lastmod>2018-09-02T00:44:00Z</lastmod>
  </url>
  <url>
-  <loc>http://test.com/categories/cat_nikola/</loc>
+  <loc>https://ssrinath-al.github.io/categories/nikola/</loc>
   <lastmod>2018-09-02T00:44:00Z</lastmod>
  </url>
  <url>
-  <loc>http://test.com/categories/demo/</loc>
+  <loc>https://ssrinath-al.github.io/categories/python/</loc>
   <lastmod>2018-09-02T00:44:00Z</lastmod>
  </url>
  <url>
-  <loc>http://test.com/categories/nikola/</loc>
+  <loc>https://ssrinath-al.github.io/galleries/</loc>
   <lastmod>2018-09-02T00:44:00Z</lastmod>
  </url>
  <url>
-  <loc>http://test.com/categories/python/</loc>
+  <loc>https://ssrinath-al.github.io/galleries/demo/</loc>
   <lastmod>2018-09-02T00:44:00Z</lastmod>
  </url>
  <url>
-  <loc>http://test.com/galleries/</loc>
+  <loc>https://ssrinath-al.github.io/listings/</loc>
   <lastmod>2018-09-02T00:44:00Z</lastmod>
  </url>
  <url>
-  <loc>http://test.com/galleries/demo/</loc>
+  <loc>https://ssrinath-al.github.io/listings/__pycache__/</loc>
   <lastmod>2018-09-02T00:44:00Z</lastmod>
  </url>
  <url>
-  <loc>http://test.com/listings/</loc>
+  <loc>https://ssrinath-al.github.io/listings/hello.py.html</loc>
+  <lastmod>2018-09-03T18:19:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://ssrinath-al.github.io/pages/about-nikola/</loc>
   <lastmod>2018-09-02T00:44:00Z</lastmod>
  </url>
  <url>
-  <loc>http://test.com/listings/__pycache__/</loc>
+  <loc>https://ssrinath-al.github.io/pages/bootstrap-demo/</loc>
   <lastmod>2018-09-02T00:44:00Z</lastmod>
  </url>
  <url>
-  <loc>http://test.com/listings/hello.py.html</loc>
+  <loc>https://ssrinath-al.github.io/pages/charts/</loc>
   <lastmod>2018-09-02T00:44:00Z</lastmod>
  </url>
  <url>
-  <loc>http://test.com/pages/about-nikola/</loc>
+  <loc>https://ssrinath-al.github.io/pages/creating-a-theme/</loc>
   <lastmod>2018-09-02T00:44:00Z</lastmod>
  </url>
  <url>
-  <loc>http://test.com/pages/bootstrap-demo/</loc>
+  <loc>https://ssrinath-al.github.io/pages/dr-nikolas-vendetta/</loc>
   <lastmod>2018-09-02T00:44:00Z</lastmod>
  </url>
  <url>
-  <loc>http://test.com/pages/charts/</loc>
+  <loc>https://ssrinath-al.github.io/pages/extending/</loc>
   <lastmod>2018-09-02T00:44:00Z</lastmod>
  </url>
  <url>
-  <loc>http://test.com/pages/creating-a-theme/</loc>
+  <loc>https://ssrinath-al.github.io/pages/handbook/</loc>
   <lastmod>2018-09-02T00:44:00Z</lastmod>
  </url>
  <url>
-  <loc>http://test.com/pages/dr-nikolas-vendetta/</loc>
+  <loc>https://ssrinath-al.github.io/pages/internals/</loc>
   <lastmod>2018-09-02T00:44:00Z</lastmod>
  </url>
  <url>
-  <loc>http://test.com/pages/extending/</loc>
+  <loc>https://ssrinath-al.github.io/pages/listings-demo/</loc>
   <lastmod>2018-09-02T00:44:00Z</lastmod>
  </url>
  <url>
-  <loc>http://test.com/pages/handbook/</loc>
+  <loc>https://ssrinath-al.github.io/pages/path-handlers/</loc>
   <lastmod>2018-09-02T00:44:00Z</lastmod>
  </url>
  <url>
-  <loc>http://test.com/pages/internals/</loc>
+  <loc>https://ssrinath-al.github.io/pages/quickref/</loc>
   <lastmod>2018-09-02T00:44:00Z</lastmod>
  </url>
  <url>
-  <loc>http://test.com/pages/listings-demo/</loc>
+  <loc>https://ssrinath-al.github.io/pages/quickstart/</loc>
   <lastmod>2018-09-02T00:44:00Z</lastmod>
  </url>
  <url>
-  <loc>http://test.com/pages/path-handlers/</loc>
+  <loc>https://ssrinath-al.github.io/pages/slides-demo/</loc>
   <lastmod>2018-09-02T00:44:00Z</lastmod>
  </url>
  <url>
-  <loc>http://test.com/pages/quickref/</loc>
+  <loc>https://ssrinath-al.github.io/pages/social_buttons/</loc>
   <lastmod>2018-09-02T00:44:00Z</lastmod>
  </url>
  <url>
-  <loc>http://test.com/pages/quickstart/</loc>
+  <loc>https://ssrinath-al.github.io/pages/theming/</loc>
   <lastmod>2018-09-02T00:44:00Z</lastmod>
  </url>
  <url>
-  <loc>http://test.com/pages/slides-demo/</loc>
-  <lastmod>2018-09-02T00:44:00Z</lastmod>
+  <loc>https://ssrinath-al.github.io/posts/test-new-post/</loc>
+  <lastmod>2018-09-03T15:16:00Z</lastmod>
  </url>
  <url>
-  <loc>http://test.com/pages/social_buttons/</loc>
-  <lastmod>2018-09-02T00:44:00Z</lastmod>
- </url>
- <url>
-  <loc>http://test.com/pages/theming/</loc>
-  <lastmod>2018-09-02T00:44:00Z</lastmod>
- </url>
- <url>
-  <loc>http://test.com/posts/welcome-to-nikola/</loc>
+  <loc>https://ssrinath-al.github.io/posts/welcome-to-nikola/</loc>
   <lastmod>2018-09-02T00:44:00Z</lastmod>
  </url>
 </urlset>

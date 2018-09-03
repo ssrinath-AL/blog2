@@ -1,4 +1,4 @@
-Sitemap: http://test.com/sitemapindex.xml
+Sitemap: https://ssrinath-al.github.io/sitemapindex.xml
 
 User-Agent: *
-Host: test.com
+Host: ssrinath-al.github.io
